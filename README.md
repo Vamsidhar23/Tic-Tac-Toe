@@ -4,3 +4,4 @@ Our website is to develop a tic-tac-toe game using React library. Where two play
 <h1>Technologies Used</h1>
 <p>React Js, Node Js, JSX ,CSS And HTML.</p>
 
+![Screenshot 2023-07-12 002238](https://github.com/Vamsidhar23/Tic-Tac-Toe/assets/125563361/d85970df-f7eb-45e0-aa39-43bf481a575d)
